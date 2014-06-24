@@ -14,7 +14,6 @@ The following packages must be installed:
 .. code-block:: yaml
 
     - Salt (develop branch)
-    - Salt API >= 0.8.4.1
 
 
 Master Configuration
