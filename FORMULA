@@ -1,0 +1,8 @@
+name: ec2-autoscale-reactor
+os: RedHat, Debian, Ubuntu, Suse, FreeBSD
+os_family: RedHat, Debian, Suse, FreeBSD
+version: 201508
+release: 1
+minimum_version: 2015.8
+summary: EC2 Autoscale Reator
+description: Reactor formula that allows Salt Cloud to respond to EC2's autoscaler
